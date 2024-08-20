@@ -55,7 +55,7 @@ int main () {
             break;
 
         case '-':
-            std::cout << "Sutraction executed\n";
+            std::cout << "Subtraction executed\n";
             result = integer1 - integer2;
             break;
 
